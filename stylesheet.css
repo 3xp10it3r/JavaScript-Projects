@@ -1,0 +1,25 @@
+.grid{
+    display: flex;
+    flex-wrap: wrap;
+    height: 400px;
+    width: 500px;
+    border-color: red;
+    border-style: groove;
+    border-width: 0.5em;
+    /* background-color: blueviolet; */
+    /* border 4cm; */
+    /* border:10px 10px 10px 10px;
+    border-color: brown;
+     */
+}
+h3{
+    border-color: black;
+    border-style: groove;
+
+    /* border: 10px 10px 10px 10px;
+    background: red
+    border-width: 10px ; */
+}
+h1{
+    text-align: center;
+}
